@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+
+
+{% block title %} Inschrijven {% endblock title %}
+
+    
+{% block content %}
+
+<h2>Inschrijven</h2>
+<form method="post">{% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Inschrijven</button>
+</form>
+
+{% endblock content %}
