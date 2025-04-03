@@ -3,7 +3,7 @@
 }
 
 @media screen and (max-width: 576px) {
-    .nav {
+    nav {
         width: 300px;
     }
   }
@@ -13,7 +13,7 @@
 }
 
 @media screen and (max-width: 576px) {
-    .table {
+    table {
         width: 300px;
     }
   }
