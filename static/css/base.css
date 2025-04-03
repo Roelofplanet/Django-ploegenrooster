@@ -2,7 +2,18 @@
     color: red;
 }
 
+@media screen and (max-width: 576px) {
+    .nav {
+        width: 300px;
+    }
+  }
+
 .nav-link {
     margin-left: 95px;
 }
 
+@media screen and (max-width: 576px) {
+    .table {
+        width: 300px;
+    }
+  }
