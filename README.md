@@ -1,6 +1,4 @@
-# Django Ploegenrooster
-## Test
-### Hoi
+## Django Shift Schedule Application
 
 This is a web-based application used by employees and colleagues at my workplace. 
 Users can access their shift schedule by first logging in into the system. 
