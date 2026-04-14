@@ -28,3 +28,11 @@ The application is ready to be deployed in a cloud environment and follows best 
 - Environment variables for sensitive data
 - Version control with Git
 - Ready for cloud-based deployment (Heroku)
+
+Hier zie je het inloggen scherm:
+
+![Login screen](homepage.png)
+
+## Overzicht
+
+![Overzicht](images/overview.png)
