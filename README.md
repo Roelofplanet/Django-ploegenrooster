@@ -1,4 +1,4 @@
-# Django Shift Schedule Application
+# Dunlop Shift Schedule Application
 
 This is a web-based application used by employees at my workplace to view their shift schedules.
 
