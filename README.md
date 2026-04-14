@@ -29,8 +29,10 @@ The application is ready to be deployed in a cloud environment and follows best 
 - Version control with Git
 - Ready for cloud-based deployment (Heroku)
 
+
 ## Images
 
+### Homepage
 ![Login screen](homepage.png)
 
 
