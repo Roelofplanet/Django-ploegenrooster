@@ -4,13 +4,13 @@ This is a web-based application used by employees at my workplace to view their 
 
 Users can securely log in to access their personal schedules. The application is built with the Django framework and uses Django’s built-in authentication system for secure login and session management. The frontend is developed using Bootstrap 5 to provide a clean and responsive user interface.
 
-The application has been deployed in a cloud environment and follows best practices for security and configuration management.
+The application is ready to be deployed in a cloud environment and follows best practices for security and configuration management.
 
 ## Features
 
 - User authentication (login/logout)
 - Personal shift schedule overview
-- Responsive web interface
+- Responsive web interface/ desktop and mobile
 - Secure handling of user data
 
 ## Technologies Used
@@ -27,4 +27,4 @@ The application has been deployed in a cloud environment and follows best practi
 - CSRF protection implemented
 - Environment variables for sensitive data
 - Version control with Git
-- Cloud-based deployment (Heroku)
+- Ready for cloud-based deployment (Heroku)
