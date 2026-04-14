@@ -33,9 +33,9 @@ The application is ready to be deployed in a cloud environment and follows best 
 ## Images
 
 #### Homepage
-![Log screen](homepage.png)
+![homepage](homepage.png)
 
 #### Loginpage
-!(loginpage.png)
+![loginpage](loginpage.png)
 
 
