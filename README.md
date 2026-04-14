@@ -1,18 +1,30 @@
-## Django Shift Schedule Application
+# Django Shift Schedule Application
 
-This is a web-based application used by employees and colleagues at my workplace. 
-Users can access their shift schedule by first logging in into the system. 
-The application is developed using the Django framework, incorporating Django’s built-in authentication system to facilitate secure login and logout functionality. 
-The frontend is implemented using the Bootstrap 5 web framework.
-The application is securely deployed to Heroku, following best practices for code security and deployment.
+This is a web-based application used by employees at my workplace to view their shift schedules.
 
-### Specifications
-- Django Auth User Model
+Users can securely log in to access their personal schedules. The application is built with the Django framework and uses Django’s built-in authentication system for secure login and session management. The frontend is developed using Bootstrap 5 to provide a clean and responsive user interface.
+
+The application has been deployed in a cloud environment and follows best practices for security and configuration management.
+
+## Features
+
+- User authentication (login/logout)
+- Personal shift schedule overview
+- Responsive web interface
+- Secure handling of user data
+
+## Technologies Used
+
+- Django (Python web framework)
+- Django Authentication System
 - HTML Templates
+- Bootstrap 5 (CDN)
 - Django Crispy Forms
-- Static files CSS
-- Bootstrap 5 CDN Link
-- Git Version Control
-- Secure Environment Variables
-- Secure Form CRSF_Tokens
-- Cloud based deployment on Heroku
+- Static files (CSS)
+
+## Security & Deployment
+
+- CSRF protection implemented
+- Environment variables for sensitive data
+- Version control with Git
+- Cloud-based deployment (Heroku)
