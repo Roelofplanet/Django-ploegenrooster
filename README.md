@@ -38,4 +38,10 @@ The application is ready to be deployed in a cloud environment and follows best 
 #### Loginpage
 ![loginpage](loginpage.png)
 
+#### Shift schedule page 1
+![schedulepage1](schedulepage1.png)
+
+#### Shift schedule page 2
+![schedulepage2](schedulepage2.png)
+
 
